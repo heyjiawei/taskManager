@@ -21,3 +21,9 @@
 
 # Ignore bin files
 /bin
+
+# Ignore rails read me
+/README.rdoc
+
+# Ignore rakefile
+/Rakefile
